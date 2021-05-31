@@ -1,0 +1,9 @@
+
+{
+  "LoginScreen": {
+    "nameInput": "@username",
+    "passwordInput": "@password",
+    "loginButton": "@loginBtn"
+  }
+}
+
